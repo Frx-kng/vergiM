@@ -1,0 +1,5 @@
+{
+  "name": "VergiM: ABD Borsa Vergi Hesaplayıcı",
+  "description": "ABD borsalarında işlem yapan Türk yatırımcılar için Yİ-ÜFE endekslemeli vergi ve beyanname hesaplama aracı.",
+  "requestFramePermissions": []
+}
